@@ -1,0 +1,13 @@
+\\skra2.2t.local\nemfredirect$\0912962339\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+\\skra2.2t.local\nemfredirect$\0912962339\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+\\skra2.2t.local\nemfredirect$\0912962339\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+\\skra2.2t.local\nemfredirect$\0912962339\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+\\skra2.2t.local\nemfredirect$\0912962339\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+\\skra2.2t.local\nemfredirect$\0912962339\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+\\skra2.2t.local\nemfredirect$\0912962339\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+\\skra2.2t.local\nemfredirect$\0912962339\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+\\skra2.2t.local\nemfredirect$\0912962339\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+\\skra2.2t.local\nemfredirect$\0912962339\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+\\skra2.2t.local\nemfredirect$\0912962339\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+\\skra2.2t.local\nemfredirect$\0912962339\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+\\skra2.2t.local\nemfredirect$\0912962339\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
