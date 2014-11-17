@@ -28,10 +28,12 @@
             </Button.Content>
             </Button>
             
-         <Label x:Name="brick_counter" Content="0" HorizontalAlignment="Left" Margin="227,82,0,211" VerticalAlignment="Center" Width="75" HorizontalContentAlignment="Center" Height="26"/>
-         <Label x:Name="wood_counter" Content="0" HorizontalAlignment="Left" Margin="129,82,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" Width="75" RenderTransformOrigin="0.493,0.538"/>
-         <Label x:Name="steel_counter" Content="0" HorizontalAlignment="Left" Margin="328,82,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" RenderTransformOrigin="0.547,0.513" Width="75"/>
-        <Label x:Name="brick_out_of_ten" Content="test" HorizontalAlignment="Left" Margin="249,112,0,0" VerticalAlignment="Top"/>
+         <Label x:Name="brick_counter" Content="0 bricks" HorizontalAlignment="Left" Margin="227,82,0,0" VerticalAlignment="Top" Width="75" HorizontalContentAlignment="Center"/>
+         <Label x:Name="wood_counter" Content="0 logs" HorizontalAlignment="Left" Margin="129,82,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" Width="75" RenderTransformOrigin="0.493,0.538"/>
+         <Label x:Name="steel_counter" Content="0 steel" HorizontalAlignment="Left" Margin="328,82,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" RenderTransformOrigin="0.547,0.513" Width="75"/>
+        <Label x:Name="brick_cap" Content="0/10" HorizontalAlignment="Left" Margin="250,113,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="wood_cap" Content="0/10" HorizontalAlignment="Left" Margin="150,113,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.026,0.538"/>
+        <Label x:Name="steel_cap" Content="0/10" HorizontalAlignment="Left" Margin="350,113,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 
