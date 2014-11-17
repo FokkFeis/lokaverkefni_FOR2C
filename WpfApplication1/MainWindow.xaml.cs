@@ -28,21 +28,40 @@ namespace WpfApplication1
         int wood_amount;
         int brick_amount;
         int steel_amount;
-        //button for bricks
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            brick_amount++;
-            brick_counter.Content=brick_amount+" bricks";           
-        }
+
+        //Click counters
+        int brick_clicks;
+
         //button for wood
         private void wood_btn_Click(object sender, RoutedEventArgs e)
         {
-
+            wood_amount++;
+            wood_counter.Content = wood_amount + " logs";
         }
+
+        //button for bricks
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            brick_clicks++;
+            brick_out_of_ten.Content = brick_clicks + "/10";
+            if (brick_clicks % 10 == 0)
+            {
+                brick_amount++;
+                brick_clicks = 0;
+                brick_out_of_ten.Content = brick_clicks + "/10";
+            }
+            brick_counter.Content=brick_amount+" bricks";           
+        }
+
         //button for steel
         private void steel_btn_Click(object sender, RoutedEventArgs e)
         {
-
+            brick_clicks++;
+            if (brick_clicks % 10 == 0)
+            {
+                brick_amount++;
+            }
+            brick_counter.Content = brick_amount + " bricks";       
         }
     }
 }
