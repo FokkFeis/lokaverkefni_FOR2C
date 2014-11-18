@@ -79,7 +79,7 @@ namespace WpfApplication1
                 steel_clicks = 0;
                 steel_cap.Content = steel_clicks + "/10";
             }
-            steel_counter.Content = steel_amount + " bricks";
+            steel_counter.Content = steel_amount + " steel";
            
         }
     }
