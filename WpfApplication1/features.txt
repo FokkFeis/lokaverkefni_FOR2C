@@ -1,0 +1,8 @@
+﻿Material
+	logs
+	bricks
+	steel
+	cash?
+When you start the game you should generate a new "World" and in that world you get diffrent amounts of resources such as in forests you would get more logs
+
+have a background image for the different areas such as a tree for the forrest
