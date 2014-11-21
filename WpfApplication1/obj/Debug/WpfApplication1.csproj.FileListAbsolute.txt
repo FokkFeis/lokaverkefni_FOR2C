@@ -52,3 +52,5 @@ N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\WpfApplication1.Propertie
 N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
 N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\GameWindow.baml
 N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\GameWindow.g.cs
+C:\Users\FokkFeis\Documents\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\GameWindow.baml
+C:\Users\FokkFeis\Documents\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\GameWindow.g.cs

@@ -35,6 +35,9 @@ namespace WpfApplication1
         int steel_clicks;
         int total_clicks;
 
+        //Houses
+        house basicHouse = new house(1, 1, 1, 1);
+        house mediumHouse = new house(50, 20, 35, 140);
         //button for wood
         private void wood_btn_Click(object sender, RoutedEventArgs e)
         {
@@ -70,6 +73,7 @@ namespace WpfApplication1
         //button for steel
         private void steel_btn_Click(object sender, RoutedEventArgs e)
         {
+            house_curr_label.Content = basicHouse;
             steel_clicks++;
             total_clicks++;
             steel_cap.Content = steel_clicks + "/10";
@@ -82,5 +86,13 @@ namespace WpfApplication1
             steel_counter.Content = steel_amount + " steel";
            
         }
+        
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            house_curr_label.Content = basicHouse;
+        }
+        //this is for showing info about house
+        //house_curr_label.Content = basicHouse;
     }
 }
