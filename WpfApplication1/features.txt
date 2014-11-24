@@ -14,3 +14,11 @@ example of out put of house
 	you need x wood for house
 	you need x steel for house
 	you need x brick for house
+
+Classar[x]
+methods[]
+interface[x]
+inheritance[]
+polymorphism[]
+errors[x]
+comments[]

@@ -42,7 +42,6 @@ N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\WpfApplication1.exe
 N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\WpfApplication1.pdb
 N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\bin\Debug\WpfApplication1.exe
 N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\bin\Debug\WpfApplication1.pdb
-N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
 N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\MainWindow.baml
 N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\MainWindow.g.cs
 N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\App.g.cs
@@ -54,3 +53,4 @@ N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\GameWindow.baml
 N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\GameWindow.g.cs
 C:\Users\FokkFeis\Documents\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\GameWindow.baml
 C:\Users\FokkFeis\Documents\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\GameWindow.g.cs
+N:\gitHub\lokaverkefni_FOR2C\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache

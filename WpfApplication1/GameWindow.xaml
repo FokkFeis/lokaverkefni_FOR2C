@@ -5,7 +5,7 @@
 
     <Grid>
         <Image Source="background.jpg" Stretch="Fill"/>
-        <Button x:Name="wood_btn" HorizontalAlignment="Left" Margin="129,143,0,0" VerticalAlignment="Top" Width="75" Click="wood_btn_Click">
+        <Button x:Name="wood_btn" HorizontalAlignment="Left" Margin="128,127,0,0" VerticalAlignment="Top" Width="75" Click="wood_btn_Click">
             <Button.Content>
                 <StackPanel>
                     <Image Source="wood_icon.png" Width="72"/>
@@ -13,7 +13,7 @@
             </Button.Content>
         </Button>
 
-        <Button x:Name="brick_btn" HorizontalAlignment="Left" Margin="227,143,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click">
+        <Button x:Name="brick_btn" HorizontalAlignment="Left" Margin="226,127,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click">
             <Button.Content>
                 <StackPanel>
                     <Image Source="farmville_brick.png" Width="72"/>
@@ -21,7 +21,7 @@
             </Button.Content>
         </Button>
 
-        <Button x:Name="steel_btn" HorizontalAlignment="Left" Margin="328,143,0,0" VerticalAlignment="Top" Width="75" Click="steel_btn_Click">
+        <Button x:Name="steel_btn" HorizontalAlignment="Left" Margin="327,127,0,0" VerticalAlignment="Top" Width="75" Click="steel_btn_Click">
             <Button.Content>
                 <StackPanel>
                     <Image Source="steel_icon.png" Width="72"/>
@@ -29,14 +29,17 @@
             </Button.Content>
         </Button>
 
-        <Label x:Name="brick_counter" Content="0 bricks" HorizontalAlignment="Left" Margin="227,82,0,0" VerticalAlignment="Top" Width="75" HorizontalContentAlignment="Center" Background="#FFD87420"/>
-        <Label x:Name="wood_counter" Content="0 logs" HorizontalAlignment="Left" Margin="129,82,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" Width="75" RenderTransformOrigin="0.493,0.538" Background="#FF0CD10C"/>
-        <Label x:Name="steel_counter" Content="0 steel" HorizontalAlignment="Left" Margin="328,82,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" RenderTransformOrigin="0.547,0.513" Width="75" Background="#FF47B6F5"/>
-        <Label x:Name="brick_cap" Content="0/10" HorizontalAlignment="Left" Margin="250,113,0,0" VerticalAlignment="Top" Background="#FFD87420"/>
-        <Label x:Name="wood_cap" Content="0/10" HorizontalAlignment="Left" Margin="150,113,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.026,0.538" Background="#FF0CD10C"/>
-        <Label x:Name="steel_cap" Content="0/10" HorizontalAlignment="Left" Margin="350,113,0,0" VerticalAlignment="Top" Background="#FF47B6F5"/>
+        <Label x:Name="brick_counter" Content="0 bricks" HorizontalAlignment="Left" Margin="226,66,0,0" VerticalAlignment="Top" Width="75" HorizontalContentAlignment="Center" Background="#FFD87420"/>
+        <Label x:Name="wood_counter" Content="0 logs" HorizontalAlignment="Left" Margin="128,66,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" Width="75" RenderTransformOrigin="0.493,0.538" Background="#FF0CD10C"/>
+        <Label x:Name="steel_counter" Content="0 steel" HorizontalAlignment="Left" Margin="327,66,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" RenderTransformOrigin="0.547,0.513" Width="75" Background="#FF47B6F5"/>
+        <Label x:Name="brick_cap" Content="0/10" HorizontalAlignment="Left" Margin="249,97,0,0" VerticalAlignment="Top" Background="#FFD87420"/>
+        <Label x:Name="wood_cap" Content="0/10" HorizontalAlignment="Left" Margin="149,97,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.026,0.538" Background="#FF0CD10C"/>
+        <Label x:Name="steel_cap" Content="0/10" HorizontalAlignment="Left" Margin="349,97,0,0" VerticalAlignment="Top" Background="#FF47B6F5"/>
         <Label x:Name="house_curr_label" Content="House" HorizontalAlignment="Left" Margin="38,30,0,0" VerticalAlignment="Top" Background="#FFFFC80C"/>
-
+        <ListBox x:Name="event_log" HorizontalAlignment="Left" Height="306" Margin="453,82,0,0" VerticalAlignment="Top" Width="200" FontStretch="Condensed"/>
+        <Button x:Name="buy_house_btn" Content="Buy house" HorizontalAlignment="Left" Margin="16,237,0,0" VerticalAlignment="Top" Width="119" Click="buy_house_btn_Click" Height="33"/>
+        <Button Content="buy Double-click" HorizontalAlignment="Left" Margin="140,237,0,0" VerticalAlignment="Top" Width="119" Height="33"/>
+        <Button Content="buy new background" HorizontalAlignment="Left" Margin="264,237,0,0" VerticalAlignment="Top" Width="119" RenderTransformOrigin="0.507,0.529" Height="33" Click="Button_Click_1"/>
     </Grid>
 
 </Window>

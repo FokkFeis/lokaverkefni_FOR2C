@@ -53,7 +53,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="areas.cs" />
+    <Compile Include="errorist.cs" />
     <Compile Include="house.cs" />
     <Compile Include="Mainwindow.xaml.cs">
       <DependentUpon>Mainwindow.xaml</DependentUpon>

@@ -8,9 +8,9 @@ namespace WpfApplication1
 {
     class house
     {
-        public static int log { get; private set; }
-        public static int steel { get; private set; }
-        public static int bricks { get; private set; }
+        public int log { get; private set; }
+        public int steel { get; private set; }
+        public int bricks { get; private set; }
         public static double size { get; private set; }
         
         public house (int Log, int Steel, int Bricks, double Size)
@@ -21,12 +21,13 @@ namespace WpfApplication1
             size = Size;
 
         }
-
+        
         public override string ToString()
         {
             return string.Format("{0} logs, {1} bricks, {2} steel, {3}fm2",
                 log, steel, bricks, size);
         }
+        
     }
     
 }
